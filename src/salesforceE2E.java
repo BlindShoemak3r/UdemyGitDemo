@@ -17,7 +17,12 @@ public class salesforceE2E {
 		//driver.findElement(By.cssSelector("body > div > div.content-area > div.rhs-area.floatR > div.login-area-free.floatR > div > form > div > div:nth-child(6) > div:nth-child(1) > input[type='submit']")).click();	//Long form, works
 		driver.findElement(By.cssSelector("input[type='submit']")).click();		//Short form, works
 		
-		
+		System.out.println("Blank Space");
+		System.out.println("This is blank Space");
+		System.out.println("More blank Space");
+		System.out.println("Even more Blank Space");
+
+		driver.quit();
 		
 		
 		

@@ -16,9 +16,9 @@ public class Css {
 		
 		
 		System.out.println("Blank Space");
-		System.out.println("Blank Space");
-		System.out.println("Blank Space");
-		System.out.println("Blank Space");
+		System.out.println("This is blank Space");
+		System.out.println("More blank Space");
+		System.out.println("Even more Blank Space");
 
 		driver.quit();
 	}
