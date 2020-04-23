@@ -13,6 +13,12 @@ public class Css {
 		driver.findElement(By.cssSelector("*[id='password']")).sendKeys("pawwsord");
 		//driver.findElement(By.cssSelector("*#Login")).click();
 		driver.findElement(By.cssSelector(".button.r4.wide.primary")).click();	  //same as above
+		
+		
+		System.out.println("Blank Space");
+		System.out.println("Blank Space");
+		System.out.println("Blank Space");
+		System.out.println("Blank Space");
 
 	}
 
