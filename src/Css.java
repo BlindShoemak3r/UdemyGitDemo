@@ -20,6 +20,7 @@ public class Css {
 		System.out.println("Blank Space");
 		System.out.println("Blank Space");
 
+		driver.quit();
 	}
 
 }
